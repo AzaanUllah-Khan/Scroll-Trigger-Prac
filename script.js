@@ -8,7 +8,7 @@ gsap.to(".container h1",{
 })
 gsap.from(".container h2",{
     opacity:0,
-    stagger:0.1,
+    stagger:0.09,
     scrollTrigger:{
         trigger:".container h2",
         scrub: 1
